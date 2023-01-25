@@ -2,6 +2,7 @@ import static org.junit.Assert.*;
 import org.junit.*;
 
 public class MethodsTests {
+  
   @Test 
   public void testSumEvensLength4() {
     int[] input1 = { 12, 13, 7, 2};
